@@ -9,7 +9,9 @@ module.exports = {
       },
       colors: {
         blackEel: "#444",
+        headingColor: "#333",
         blueZodiac: "#16225b",
+        textGray: "#666",
       },
       backgroundImage: {
         landingHero: "url('/landing/hero.jpg')",
