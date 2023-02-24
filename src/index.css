@@ -9,4 +9,7 @@
   .contain {
     @apply flex w-[90%] max-w-[1200px];
   }
+  .title {
+    @apply text-[35px] sm:text-[44px];
+  }
 }

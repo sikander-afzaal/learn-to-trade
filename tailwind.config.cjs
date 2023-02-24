@@ -13,6 +13,10 @@ module.exports = {
         blueZodiac: "#16225b",
         textGray: "#666",
       },
+      boxShadow: {
+        shadow1: "0 4px 16px 2px rgba(0,0,0,.1)",
+        boxHover: "0 2px 24px 0 rgba(0,0,0,.15)",
+      },
       backgroundImage: {
         landingHero: "url('/landing/hero.jpg')",
       },
