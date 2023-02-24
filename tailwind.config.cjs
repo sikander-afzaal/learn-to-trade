@@ -11,6 +11,9 @@ module.exports = {
         blackEel: "#444",
         blueZodiac: "#16225b",
       },
+      backgroundImage: {
+        landingHero: "url('/landing/hero.jpg')",
+      },
     },
   },
   plugins: [],
