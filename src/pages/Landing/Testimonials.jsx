@@ -3,7 +3,7 @@ const Testimonials = () => {
     <div className="wrapper py-[30px] sm:py-[40px] lg:py-[100px]">
       <div className="contain flex-col justify-center items-center gap-5">
         <h2 className="title text-[#16225b] font-semibold">Testimonials</h2>
-        <div className="w-full mt-6 xl:flex-row flex-col flex gap-5 justify-start items-start ">
+        <div className="w-full mt-6 md:flex-row flex-col flex gap-5 justify-start items-start ">
           <div className=" gap-4 flex justify-start items-start flex-col w-full">
             <ReviewBox
               review=" I have actually enjoyed the course it focused more on practical things
@@ -55,7 +55,7 @@ const Testimonials = () => {
               name="Rodha Al Haj"
             />
           </div>
-          <div className=" gap-4  flex justify-start items-start flex-col w-full">
+          <div className=" gap-4 xl:flex hidden justify-start items-start flex-col w-full">
             <ReviewBox
               review="Once again Nikkhil blew my mind during the level 2 course with very advanced knowledge and techniques. Although the techniques are very complex Nikkhil explained them in a very easy and clear way. Given homework assignments are perfect way to learn through my own mistakes and keep myself on track. I really enjoy learning with this excellent teacher and will come back for level 3 soon."
               img="/landing/review-test.png"
