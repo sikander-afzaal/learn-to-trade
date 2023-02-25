@@ -18,6 +18,7 @@ module.exports = {
         boxHover: "0 2px 24px 0 rgba(0,0,0,.15)",
       },
       backgroundImage: {
+        footer: "linear-gradient(180deg,#e5bf5a,#d7b66a)",
         landingHero: "url('/landing/hero.jpg')",
       },
     },
